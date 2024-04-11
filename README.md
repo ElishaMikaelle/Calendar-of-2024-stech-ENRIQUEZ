@@ -542,13 +542,15 @@
               </tr>
               <tr>
                  <tr>
-                 <td>23</td>
+                    <td>23</td>
                     <td>24</td>
                     <td>25</td>
                     <td>26</td>
                     <td>27</td>
                     <td>28</td>
-                 <td>30</td>
+                    <td>29</td>
+                 </tr>
+              <tr>
                      <td></td>
                     <td></td>
                     <td></td>
